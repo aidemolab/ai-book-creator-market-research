@@ -1,0 +1,6 @@
+{
+  "name": "Children's Colouring Book Creator",
+  "description": "Create age-appropriate, original children's colouring books with AI page generation and export to PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
